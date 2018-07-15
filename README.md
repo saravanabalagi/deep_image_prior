@@ -1,6 +1,8 @@
 # Deep Image Prior
 
-You can denoise an image with just the image and nothing else, yes, without even a pre-trained convolutional network.
+You can denoise an image with just the image and nothing else, yes, with absolute no pre-training, like this one
+
+![Result](result.png)
 
 This repo is a basic implementation of Deep image prior (https://arxiv.org/abs/1711.10925) for denoising images. 
 
